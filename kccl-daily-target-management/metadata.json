@@ -1,0 +1,5 @@
+{
+  "name": "KCCL Daily Target Management",
+  "description": "A comprehensive tool for HOS and ZSM to manage daily cement sales targets with intelligent customer allocation suggestions.",
+  "requestFramePermissions": []
+}
